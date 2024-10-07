@@ -49,7 +49,7 @@ I fill the N/A (empty) cells with respective datam from the corresponding Indexe
 And after some cleaning up, i export everything into a single file that contains only the filtered and relevant data.
 
 # Results
-A 22,419,039 characters file was filtered into a 424,898 characters
+A 22,419,039 characters file was filtered into a 424,898 characters<br>
 The graph of the data as viewed in a 1920x1080 screen ![graph](https://i.imgur.com/OlPQoKR.png)
 <br>
 The graph of the data as viewed in a 1920x1080 screen ![graph](https://i.imgur.com/ZONkOqW.png)
