@@ -1,4 +1,4 @@
-	Hour_x	Minutes_x	Seconds_x	Velocity_x
+	Hour	Minutes	Seconds	Velocity
 487	04	00	24	236.9333445383016
 488	04	00	24	218.43341509158697
 490	04	00	24	231.84393692353498
